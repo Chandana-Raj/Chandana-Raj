@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandana-Raj
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently pursuing B.Tech in CSE
+- 👀 Just another coding enthusiast.
+- 🌱 I’m currently pursuing BE in CSE
 - 📫 How to reach me ...-chandanaraj282@gmail.com
 
 <!---
